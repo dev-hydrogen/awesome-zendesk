@@ -2,8 +2,6 @@
 awesome Zendesk custom uploader urls
 
 
-https://consumercomplaints.fcc.gov/api/v2/uploads.json
-
 https://wifi-helpcenter.nokia.com/api/v2/uploads.json
 
 https://support.trivago.com/api/v2/uploads.json
